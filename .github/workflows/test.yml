@@ -25,4 +25,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: adriankrupa/docker-repository-test:latest
+          tags: ghcr.io/adriankrupa/docker-repository-test:latest
